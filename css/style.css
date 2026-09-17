@@ -1,0 +1,33 @@
+.sec1{
+    background-color: blue;
+    padding: 80px;
+}
+
+.sec2{
+    background-color: pink;
+    padding: 80px;
+    margin-top: 50px;
+}
+
+.sec3{
+    background-color: purple;
+    padding: 80px;
+    margin-top: 50px;
+}
+
+.sec4{
+    background-color: green;
+    padding: 80px;
+    margin-top: 50px;
+}
+
+.sec5{
+    background-color: greenyellow;
+    padding: 80px;
+    margin-top: 50px;
+}
+
+html {
+    overflow: scroll;
+    overscroll-behavior: none;
+}
